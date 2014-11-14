@@ -1,0 +1,8 @@
+Islamyate is a Project to make a js file that converts system to arabic date
+
+[Instructions]
+- if you want to use the database version, go to "db/" frolder, download and import the file to your dataabse, you will find a table with the name "sysdates"
+- if you want to use it with no database, you can include these files to your page and use the JS mifified version
+	- copy inc/ folder to your project
+	- copy ranges.json
+then check out the demo.php and use what you need.
